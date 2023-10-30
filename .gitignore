@@ -1,0 +1,5 @@
+.idea
+.env
+generated
+node_modules
+certs
